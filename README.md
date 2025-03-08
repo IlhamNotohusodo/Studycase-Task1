@@ -8,4 +8,4 @@ Repository ini berisi kumpulan kode JavaScript sederhana untuk melakukan berbaga
 4. Menghitung selisih antara dua tanggal dalam hari
 5. Mencetak inisial nama dalam huruf besar
 
-Repo ini merupakan penyelesaian dari salah satu tugas pak Rony Setiawan di semester 1 pertemuan peratama yang berisikan code.
+Repositori ini merupakan penyelesaian dari salah satu tugas pak Rony Setiawan di semester 1 pertemuan peratama yang berisikan code.
